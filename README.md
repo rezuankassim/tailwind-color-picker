@@ -1,8 +1,8 @@
-# tailwind-color-picker
+# tailwind-color-picker 🎨
 
-## Build Setup
+## Build Setup 
 
-```bash
+``` zsh
 # install dependencies
 $ yarn install
 
